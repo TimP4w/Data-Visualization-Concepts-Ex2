@@ -18,7 +18,7 @@ Matriculation Number: 14-924-609
 Usage:
 conda create --name dvca2besken python=3 matplotlib numpy
 activate dvca2besken
-python dvc_ex_2_14924609.py
+python Exercise2.py
 
 IDE used: JetBrains PyCharm Community Edition 2017.2.1
 
